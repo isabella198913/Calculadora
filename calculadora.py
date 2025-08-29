@@ -8,7 +8,7 @@ print("5. potencia")
 
 x= int(input("seleccione una opcion del 1 al 5"))
 
-while x == 3:
+if x == 3:
     print("ingrese dos numeros")
     a= int(input())
     b= int(input())
