@@ -7,3 +7,12 @@ print("4. division")
 print("5. potencia")
 
 x= int(input("seleccione una opcion del 1 al 5"))
+#Resta
+
+if x==2:
+    print("Vamos hacer la resta " )
+    Num1= int(input("Primer numero"))
+    Num2= int(input("Segundonumero"))
+    print ("Su resultado es ",Num1-Num2)
+    
+
